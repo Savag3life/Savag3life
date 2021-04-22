@@ -1,28 +1,14 @@
-### Hey Sourav here 👋
+👋 I'm Jacob!
 
----
+I am a Full-Stack Java developer & Student in BC, Canada! I'm currently enrolled in Web & Mobile Application Development @ NIC. 
+ 
+ 🌱 I’m currently learning Scala & C.
+ 📘 I want to learn Java ASM & bytecode maniplulation
+ 👯 I currently work at Supreme Development.
+ 
+ 💬 If you wanna chat, send me a DM on Discord @Savag3life#0001
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Savag3life/Savag3life/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
+![Profile views](https://gpvc.arturio.dev/Savag3life)  <img src="https://img.shields.io/github/followers/Savag3life?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
