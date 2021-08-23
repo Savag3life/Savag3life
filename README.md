@@ -2,9 +2,9 @@
 
 I am a Full-Stack Java developer & Student in BC, Canada! I'm currently enrolled in Web & Mobile Application Development @ NIC. 
  
- 🌱 I’m currently learning GoLang & MongoDB. </br>
- 📘 I want to learn Java ASM & bytecode maniplulation</br>
- 👯 I currently work at Supreme Development.</br>
+ 🌱 I’m currently learning Rust & Java ASM</br>
+ 📘 I want to learn Postgre & MongoDB</br>
+ 👯 I currently own Supreme Development. Executive @ Aspect Development</br> <img src="http://img.shields.io/discord/694275875583033465">
  
  💬 If you wanna chat, send me a DM on Discord @Savag3life#0001
 
