@@ -7,7 +7,13 @@ I am a full-stack Java developer & Student in BC, Canada! I'm currently enrolled
  📘 I want to learn to use Postgre & MongoDB</br>
  🏆 I currently own & operate [Supreme Development](https://discord.gg/nq6MCYCmKp). Executive @ [Aspect Development](https://discord.gg/kZsJDHb99R)</br>
  
- 💬 If you wanna chat? The fastest response is to send me a DM on Discord `Savag3life#0001` </br>
+#### Some of my favorite projects...
+🛡️ "Perrier" - Licensing & Authentication Service - A passion project of mine I used to learn PHP.</br>
+🛠️ "Supreme Downloads" - A Discord based resource injection bot used to securely download products.</br>
+🛒 ["SupremeDev.us"](https://supremedev.us) - A general purpose site created to show off our latest products & host a range of supreme services.</br>
+
+
+#### 💬 If you wanna chat? The fastest response is to send me a DM on Discord `Savag3life#0001` </br>
 
 ---
 
