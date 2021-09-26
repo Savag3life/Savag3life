@@ -1,6 +1,6 @@
 ## 👋 I'm Jacob `aka` Savag3life ![Profile views](https://gpvc.arturio.dev/Savag3life)
 
-I am a full-stack Java developer & Student in BC, Canada! I'm currently enrolled in Web & Mobile Application Development @ [NIC](https://www.nic.bc.ca/). I've been working in Java online for about 6 years now in all aspects of the language. I've spent most of my time in the game addon & optimization fields working most notably on game addons for Mojang's Minecraft. More recently I've spent most of my time learning about security methods for Java applications such as bytecode manipulation, obfuscation, and authentication.
+I am a full-stack Java developer & Student in BC, Canada! I'm currently enrolled in Web & Mobile Application Development @ [NIC](https://www.nic.bc.ca/). I've been working in Java online for about 6 years now in all aspects of the language. I've spent most of my time in the game addon & optimization fields working most notably on game addons for open source & community based games. More recently I've spent most of my time learning about security methods for Java applications such as bytecode manipulation, obfuscation, and authentication.
  
 #### ~ A little bit about me currently...
  🌱 I’m currently learning [Rust](https://www.rust-lang.org/)</br>
