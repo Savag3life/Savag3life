@@ -5,7 +5,6 @@ I am a full-stack Java developer & Student in BC, Canada! I'm currently enrolled
 #### ~ A little bit about me currently...
  🌱 I’m currently learning [Rust](https://www.rust-lang.org/)</br>
  📘 I want to learn to use Postgre & MongoDB</br>
- 🏆 I currently own & operate [Supreme Development](https://discord.gg/nq6MCYCmKp). Executive @ [Aspect Development](https://discord.gg/kZsJDHb99R)</br>
  
 #### Some of my favorite projects...
 🛡️ "Perrier" - Licensing & Authentication Service - A passion project of mine I used to learn PHP.</br>
