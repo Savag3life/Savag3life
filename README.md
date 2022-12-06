@@ -4,14 +4,14 @@
 @Entity("Human")
 public static final class Savag3life {
 
-    @Getter public final String name = "Jacob C";
+    @Getter private final String name = "Jacob C";
 
-    @Getter public String[] languages = { "Java", "PHP", "Javascript", "HTML", "Typescript" };
-    @Getter public String[] tools = { "Jenkins", "IntelliJ", "JUnit", "Node", "ExpressJS", "Laravel" };
-    @Getter public String[] datasets = { "MySQL", "MongoDB", "Redis", "JSON", "XML" };
-    @Getter public String[] platforms = { "AWS", "DigitalOcean", "Google Cloud", "Azure" };
+    @Getter private final String[] languages = { "Java", "PHP", "Javascript", "HTML", "Typescript" };
+    @Getter private final String[] tools = { "Jenkins", "IntelliJ", "JUnit", "Node", "ExpressJS", "Laravel" };
+    @Getter private final String[] datasets = { "MySQL", "MongoDB", "Redis", "JSON", "XML" };
+    @Getter private final String[] platforms = { "AWS", "DigitalOcean", "Google Cloud", "Azure" };
 
-    @Getter private PreferredContactMethod contactMethod = PreferredContactMethod.Discord;
+    @Getter private final PreferredContactMethod contactMethod = PreferredContactMethod.Discord;
 
     public enum PreferredContactMethod {
         Discord("Savag3life"),
