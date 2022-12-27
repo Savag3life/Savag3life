@@ -14,7 +14,7 @@ public static final class Savag3life {
     @Getter private final PreferredContactMethod contactMethod = PreferredContactMethod.Discord;
 
     public enum PreferredContactMethod {
-        Discord("Savag3life"),
+        Discord("Savag3life#0001"),
         Email("admin@supremeventures.ca"),
         Twitter("Jacob_Savag3");
     }
