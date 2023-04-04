@@ -2,21 +2,22 @@
 
 ```java
 @Entity("Human")
-public static final class Savag3life {
+public final class Savag3life {
 
-    @Getter private final String name = "Jacob C";
+    private final String name = "Jacob C";
 
-    @Getter private final String[] languages = { "Java", "PHP", "Javascript", "HTML", "Typescript" };
-    @Getter private final String[] tools = { "Jenkins", "IntelliJ", "JUnit", "Node", "ExpressJS", "Laravel" };
-    @Getter private final String[] datasets = { "MySQL", "MongoDB", "Redis", "JSON", "XML" };
-    @Getter private final String[] platforms = { "AWS", "DigitalOcean", "Google Cloud", "Azure" };
+    private final String[] languages = { "Java", "GoLang", "Lua", "JavaScript", "PHP", "C#" };
+    private final String[] altLanguages = { "Rust", "Kotlin", "Scala", "C++", "Python" };
+    private final String[] libraries = { "Lombok", "ASM", "Gson", "Guice", "Laravel", "Gin", "Spigot", "JUnit" };
+    private final String[] databases = { "MongoDB", "MySQL", "SQLite", "Redis", "PostgreSQL", "MariaDB" };
+    private final String[] tools = { "IntelliJ", "VSCode", "Git", "GitHub", "Maven", "Gradle", "Docker", "Jenkins" };
 
-    @Getter private final PreferredContactMethod contactMethod = PreferredContactMethod.Discord;
+    private PreferredContactMethod contact = PreferredContactMethod.DISCORD;
 
     public enum PreferredContactMethod {
-        Discord("Savag3life#0001"),
-        Email("admin@supremeventures.ca"),
-        Twitter("Jacob_Savag3");
+        DISCORD("Savag3life#0001"),
+        EMAIL("jacob@pivatolconsulting.com"),
+        TELEGRAM("t.me/Savag3life");
     }
 }
 ```
@@ -24,7 +25,8 @@ public static final class Savag3life {
 #### Some Recent Projects...
 🛡️ "Perrier" - Licensing & Authentication Service - A passion project of mine I used to learn PHP.</br>
 🛠️ "ChainSaw" - Bitcoin wallet address scraper used to generate & validate bitcoin private keys.</br>
-🛒 ["SupremeDev.us"](https://supremedev.us) - A general purpose site created to show off our latest products & host a range of supreme services.</br>
+🕸️ "VoidURLs" - Generic URL shortening API written in GoLang using Gin & MongoDB</br>
+🤙 "Lazy" - Java jar code stripper used to create developer API jars without exposing method internals.</br>
 ☕ "DotJava" - Java runtime source code genetator used to generate Java source code at runtime.</br>
 
 ---
