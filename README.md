@@ -15,8 +15,8 @@ public final class Savag3life {
     private PreferredContactMethod contact = PreferredContactMethod.DISCORD;
 
     public enum PreferredContactMethod {
-        DISCORD("Savag3life#0001"),
-        EMAIL("jacob@pivatolconsulting.com"),
+        DISCORD("savag3life"),
+        EMAIL("admin@supremeventures.ca"),
         TELEGRAM("t.me/Savag3life");
     }
 }
