@@ -1,4 +1,4 @@
-## 👋 I'm Jacob `aka` Savage ![Profile views](https://gpvc.arturio.dev/Savag3life)
+## 👋 I'm Jacob `aka` Savage
 
 ```java
 @Entity("Human")
@@ -6,11 +6,11 @@ public final class Savag3life {
 
     private final String name = "Jacob C";
 
-    private final String[] languages = { "Java", "GoLang", "Lua", "JavaScript", "PHP", "C#" };
-    private final String[] altLanguages = { "Rust", "Kotlin", "Scala", "C++", "Python" };
-    private final String[] libraries = { "Lombok", "ASM", "Gson", "Guice", "Laravel", "Gin", "Spigot", "JUnit" };
-    private final String[] databases = { "MongoDB", "MySQL", "SQLite", "Redis", "PostgreSQL", "MariaDB" };
-    private final String[] tools = { "IntelliJ", "VSCode", "Git", "GitHub", "Maven", "Gradle", "Docker", "Jenkins" };
+    private String[] languages = new String[]{ "Java", "GoLang", "Lua", "JavaScript", "PHP", "C#" };
+    private String[] altLanguages = new String[]{ "Rust", "Kotlin", "Scala", "C++", "Python" };
+    private String[] libraries = new String[]{ "Lombok", "ASM", "Gson", "Guice", "Laravel", "Gin", "JUnit" };
+    private String[] databases = new String[]{ "MongoDB", "MySQL", "SQLite", "Redis", "MariaDB" };
+    private String[] tools = new String[]{ "Git", "GitHub", "Maven", "Gradle", "Docker", "Jenkins", "JavaDoc" };
 
     private PreferredContactMethod contact = PreferredContactMethod.DISCORD;
 
@@ -27,7 +27,7 @@ public final class Savag3life {
 🛠️ "ChainSaw" - Bitcoin wallet address scraper used to generate & validate bitcoin private keys.</br>
 🕸️ "VoidURLs" - Generic URL shortening API written in GoLang using Gin & MongoDB</br>
 🤙 "Lazy" - Java jar code stripper used to create developer API jars without exposing method internals.</br>
-☕ "DotJava" - Java runtime source code genetator used to generate Java source code at runtime.</br>
+☕ "DotJava" - Java runtime source code generator used to generate Java source code at runtime.</br>
 
 ---
 
