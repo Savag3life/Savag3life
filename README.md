@@ -22,6 +22,7 @@ public final class Savag3life {
 ```
  
 #### Some Recent Projects...
+
 🛠️ "ChainSaw" - Bitcoin wallet address scraper used to generate & validate Bitcoin private keys.</br>
 🕸️ "VoidURLs" - Generic URL shortening API written in GoLang using Gin & MongoDB</br>
 🤙 "Lazy" - Java jar code stripper used to create developer API jars without exposing method internals.</br>
