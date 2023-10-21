@@ -6,11 +6,10 @@ public final class Savag3life {
 
     private final String name = "Jacob C";
 
-    private String[] languages = new String[]{ "Java", "GoLang", "Lua", "JavaScript", "PHP", "C#" };
-    private String[] altLanguages = new String[]{ "Rust", "Kotlin", "Scala", "C++", "Python" };
-    private String[] libraries = new String[]{ "Lombok", "ASM", "Gson", "Guice", "Laravel", "Gin", "JUnit" };
-    private String[] databases = new String[]{ "MongoDB", "MySQL", "SQLite", "Redis", "MariaDB" };
-    private String[] tools = new String[]{ "Git", "GitHub", "Maven", "Gradle", "Docker", "Jenkins", "JavaDoc" };
+    private String[] technologies = new String[] { "Lombok", "Docker", "Jenkins", "Jira", "Git", "Linux/Unix" };
+    private String[] persistence  = new String[] { "MongoDB", "MySQL", "SQLite", "Redis", "MariaDB" };
+    private String[] languages    = new String[] { "Java", "GoLang", "SvelteKit", "JavaScript",
+                                                   "PHP", "C#", "Lua", "Python", "Groovey", "Typescript" };
 
     private PreferredContactMethod contact = PreferredContactMethod.DISCORD;
 
@@ -23,14 +22,13 @@ public final class Savag3life {
 ```
  
 #### Some Recent Projects...
-🛡️ "Perrier" - Licensing & Authentication Service - A passion project of mine I used to learn PHP.</br>
-🛠️ "ChainSaw" - Bitcoin wallet address scraper used to generate & validate bitcoin private keys.</br>
+🛠️ "ChainSaw" - Bitcoin wallet address scraper used to generate & validate Bitcoin private keys.</br>
 🕸️ "VoidURLs" - Generic URL shortening API written in GoLang using Gin & MongoDB</br>
 🤙 "Lazy" - Java jar code stripper used to create developer API jars without exposing method internals.</br>
 ☕ "DotJava" - Java runtime source code generator used to generate Java source code at runtime.</br>
-
+🛡️ "Cipher" - Software licensing & client management panel utilizing Golang, SvelteKit & Docker.
 ---
 
 ### My Workload
-<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/8214779c-956c-49ba-aeea-44c0f6db31ac.svg" width="100%" height="400">
-<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/c128a528-5dda-4a87-9367-ad365ae41e69.svg" width="100%" height="400">
+<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/1ef429d9-d5f5-4f89-9a12-28f65596d8b1.svg" width="100%" height="400">
+<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/719261d8-d908-4c07-ad56-9084f580a85d.svg" width="100%" height="400">
