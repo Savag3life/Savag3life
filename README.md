@@ -31,5 +31,5 @@ public final class Savag3life {
 </p>
 
 ### My Workload
-<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/1ef429d9-d5f5-4f89-9a12-28f65596d8b1.svg" width="100%" height="400">
-<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/719261d8-d908-4c07-ad56-9084f580a85d.svg" width="100%" height="400">
+<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/c9e79cf3-c9ca-4efb-8858-fe95f9c5124e.svg" width="100%" height="400">
+<img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/877dccea-6212-445e-bbe4-9279e9714054.svg" width="100%" height="400">
