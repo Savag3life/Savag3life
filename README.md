@@ -29,7 +29,6 @@ public final class Savag3life {
 "DotJava" - Java runtime source code generator used to generate Java source code at runtime.</br>
 "Cipher" - Software licensing & client management panel utilizing Golang, SvelteKit & Docker.</br>
 </p>
----
 
 ### My Workload
 <img src="https://wakatime.com/share/@9cf87436-f702-49fa-8db3-5210aec8af0a/1ef429d9-d5f5-4f89-9a12-28f65596d8b1.svg" width="100%" height="400">
