@@ -1,29 +1,29 @@
 ## 👋 I'm Jacob `aka` Savage
 
 ```java
-@Entity("Human")
-public final class Savag3life {
+public class Savage extends Human implements Dragon {
 
-    private final String name = "Jacob C";
+    private final String name = "Jacob";
 
     private String[] technologies = new String[] { "Lombok", "Docker", "Jenkins", "Jira", "Git", "Linux/Unix" };
     private String[] persistence  = new String[] { "MongoDB", "MySQL", "SQLite", "Redis", "MariaDB" };
     private String[] languages    = new String[] { "Java", "GoLang", "SvelteKit", "JavaScript",
                                                    "PHP", "C#", "Lua", "Python", "Groovey", "Typescript" };
 
-    private PreferredContactMethod contact = PreferredContactMethod.DISCORD;
+    private ContactMethod preferredContactMethod = ContactMethod.SIGNAL;
 
-    public enum PreferredContactMethod {
+    public enum ContactMethod {
         DISCORD("savage.jar"),
         EMAIL("admin@supremeventures.ca"),
-        TELEGRAM("t.me/Savag3life");
+        TELEGRAM("t.me/Savag3life"),
+        SIGNAL("savage.88");
     }
 }
 ```
 
 ### Some Recent Projects
 <p>
-"ChainSaw" - Bitcoin wallet address scraper used to generate & validate Bitcoin private keys.</br>
+"JBundler" - Java bytecode bundler to combine multiple Java jars together, mergering class files.</br>
 "VoidURLs" - Generic URL shortening API written in GoLang using Gin & MongoDB</br>
 "Lazy" - Java jar code stripper used to create developer API jars without exposing method internals.</br>
 "DotJava" - Java runtime source code generator used to generate Java source code at runtime.</br>
